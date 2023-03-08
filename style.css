@@ -1,0 +1,55 @@
+
+
+.myClass {
+    color: rgb(98, 0, 255);
+}
+h1   {
+    color: blue;
+    text-align: center;
+    
+}
+
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: auto
+  }
+
+h2    {
+    color: red;
+    text-align: center;  
+
+
+}
+p {
+    font-size: 1.2em;
+  }
+.OurServices
+{
+    color: rgb(231, 21, 59);
+}
+
+.OurServices
+{
+    background-color:aqua
+}
+.About
+{
+    background-color:aqua
+}
+.SocialMedia
+{
+    background-color: aqua
+}
+
+.Contact
+{
+    background-color:aqua
+}
+.Signup
+{
+    background-color:aqua
+}
